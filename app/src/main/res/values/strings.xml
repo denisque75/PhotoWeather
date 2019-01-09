@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Photo Weather App</string>
+    <string name="city_name_stub">City</string>
+    <string name="temp_stub">Temp</string>
+    <string name="temperature_image_description">Temperature image</string>
+    <string name="photo">Photo</string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="save_photo_dialog_title">Do you want to save?</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="cancel">Cancel</string>
+    <string name="canceled">Canceled</string>
+</resources>

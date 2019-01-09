@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cityName_text_size">22sp</dimen>
+    <dimen name="temp_size">30sp</dimen>
+    <dimen name="temp_image_dimen">55dp</dimen>
+</resources>
